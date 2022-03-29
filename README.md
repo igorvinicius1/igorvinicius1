@@ -10,8 +10,8 @@ I am Igor Vinícius and...
 ##
 <div align="center">
   <a href="https://github.com/igorvinicius1">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=igorvinicius1&show_icons=true&theme=synthave&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorvinicius1&layout=compact&langs_count=7&theme=synthave"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=igorvinicius1&show_icons=true&theme=synthave&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorvinicius1&layout=compact&langs_count=7&theme=synthave"/>
 </div>
   
 </div>
