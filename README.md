@@ -5,7 +5,7 @@ I am Igor Vinícius and...
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript and Python
 - 👯 I’m looking to collaborate on front-end
 - 📫 How to reach me: i-vinicius1@hotmail.com
-- ⚡ Fun fact: I am not smart, but a hardworking person
+- ⚡ Fun fact: I am not smart boy but a hardworking person
 
 ##
 <div align="center">
